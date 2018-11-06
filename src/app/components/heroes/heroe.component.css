@@ -1,0 +1,15 @@
+.conbtn{
+    padding-left: 19%;
+}
+i.fa-chevron-left{
+    font-size: 25px;
+}
+h3{
+    position: fixed;
+}
+.nuevo_heroe{
+    margin-left: 96%;
+    font-size: 25px;
+    cursor: pointer;
+    color: rgb(67, 182, 0);
+}

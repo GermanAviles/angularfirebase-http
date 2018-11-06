@@ -1,0 +1,13 @@
+button{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+div.cont_btn{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    transition: 0.5s;
+}
+i.fa-pencil-alt{
+    margin-right: 30px;
+}
